@@ -4,11 +4,13 @@
     "body-parser": "^1.20.3",
     "dotenv": "^16.4.5",
     "express": "^4.21.1",
+    "jsonwebtoken": "^9.0.2",
     "sqlite3": "^5.1.7"
   },
   "devDependencies": {
     "@types/better-sqlite3": "^7.6.12",
     "@types/express": "^5.0.0",
+    "@types/jsonwebtoken": "^9.0.7",
     "@types/node": "^22.9.3",
     "ts-node-dev": "^2.0.0",
     "typescript": "^5.7.2"
